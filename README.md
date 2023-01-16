@@ -7,6 +7,7 @@ Alteryx macros built by Alteryx ACEs. This initial repository will act more like
 1. [Fork this project][fork] to your account.
 2. Make your changes to your fork. Please limit your changes to modification of one macro per pull request. Adding multiple new files at once is fine.
 3. [Send a pull request][pr] from your fork to the `main` branch.
+4. Remember to [sync your fork][sync] periodically to access the latest macro updates.
 
 Using the web-based interface to make changes is fine too, and will help you
 by automatically forking the project and prompting to send a pull request too.
@@ -14,6 +15,7 @@ by automatically forking the project and prompting to send a pull request too.
 [fork]: https://help.github.com/articles/fork-a-repo/
 [branch]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository
 [pr]: https://help.github.com/articles/using-pull-requests/
+[sync]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork
 
 
 ## Workflow guidelines
