@@ -5,9 +5,8 @@ Alteryx macros built by Alteryx ACEs. This initial repository will act more like
 ## Contributing macros
 
 1. [Fork this project][fork] to your account.
-2. [Create a branch][branch] for the change you intend to make.
-3. Make your changes to your fork. Please limit your changes to one macro modification per pull request. Adding multiple new files at once is fine.
-4. [Send a pull request][pr] from your fork’s branch to our `main` branch.
+2. Make your changes to your fork. Please limit your changes to modification of one macro per pull request. Adding multiple new files at once is fine.
+3. [Send a pull request][pr] from your fork to the `main` branch.
 
 Using the web-based interface to make changes is fine too, and will help you
 by automatically forking the project and prompting to send a pull request too.
